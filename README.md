@@ -8,7 +8,7 @@ Modules such as -
  2. File Working
  3. Pandas/Numpy/Matplotlib and others
  4. Web Scraping and API calls 
- 5. ML Libraries and much more.
+ 5. ML Libraries and much more are added.
 
 
 
