@@ -1,4 +1,4 @@
-**Jupyter-Archives**
+# Jupyter-Archives
 
 This repository comprises of all the basic to advance code files from my local jupyter instance.
 
@@ -8,7 +8,15 @@ Modules such as -
  2. File Working
  3. Pandas/Numpy/Matplotlib and others
  4. Web Scraping and API calls 
- 5. ML Libraries and much more are added.
+ 5. ML Libraries and much more.
+ 
+ ---
+ ### Contributors
+ Soumya Gupta <gupta.soumya26@gmail.com>
+
+---
+### License & Copyright
+© Soumya Gupta, 2019
 
 
 
